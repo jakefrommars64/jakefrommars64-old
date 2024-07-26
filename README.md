@@ -3,7 +3,7 @@
 <!-- my stats -->
 <p>
   <a href="#">
-    <img height=200 align="left" src="https://my-stats-43gk.vercel.app/api?username=jakefrommars64&show_icons=true&theme=cobalt&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+    <img height=200 align="left" src="https://my-stats-43gk.vercel.app/api?username=jakefrommars64&show_icons=true&theme=cobalt&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=1" />
   </a>
   <a href="#">
     <img height=200 align="right" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=jakefrommars64&hide=html,scss,css&langs_count=8&layout=compact&theme=cobalt&card_width=150" />
