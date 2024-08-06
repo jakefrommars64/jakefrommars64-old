@@ -46,35 +46,35 @@
 </div>
 <div class="row">
 <div class="col badge">
-    <img src="devicon-master/icons/python/python-original-wordmark.svg" title="Python" alt="Python"
+    <img src="assets/icons/python/python-original-wordmark.svg" title="Python" alt="Python"
     width="55" height="55" />
 </div>
 <div class="col badge">
-    <img src="devicon-master/icons/denojs/denojs-original-wordmark-white.svg" title="DenoJS" alt="DenoJS"
+    <img src="assets/icons/denojs/denojs-original-wordmark-white.svg" title="DenoJS" alt="DenoJS"
     width="55" height="55" />
 </div>
 <div class="col badge">
-    <img src="devicon-master/icons/dot-net/dot-net-original-wordmark-white.svg" title="Dot Net" alt="Dot Net"
+    <img src="assets/icons/dot-net/dot-net-original-wordmark-white.svg" title="Dot Net" alt="Dot Net"
     width="55" height="55" />
 </div>
 <div class="col badge">
-    <img src="devicon-master/icons/html5/html5-original-wordmark-white.svg" title="HTML 5" alt="HTML 5"
+    <img src="assets/icons/html5/html5-original-wordmark-white.svg" title="HTML 5" alt="HTML 5"
     width="55" height="55" />
 </div>
 <div class="col badge">
-    <img src="devicon-master/icons/java/java-original-wordmark.svg" title="Java" alt="Java"
+    <img src="assets/icons/java/java-original-wordmark.svg" title="Java" alt="Java"
     width="55" height="55" />
 </div>
 <div class="col badge">
-    <img src="devicon-master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript"
+    <img src="assets/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript"
     width="55" height="55" />
 </div>
 <div class="col badge">
-    <img src="devicon-master/icons/json/json-original.svg" title="JSON" alt="JSON"
+    <img src="assets/icons/json/json-original.svg" title="JSON" alt="JSON"
     width="55" height="55" />
 </div>
 <div class="col badge">
-    <img src="devicon-master/icons/markdown/markdown-original-white.svg" title="Markdown" alt="Markdown"
+    <img src="assets/icons/markdown/markdown-original-white.svg" title="Markdown" alt="Markdown"
     width="55" height="55" />
 </div>
 </div>
@@ -87,7 +87,7 @@
 </div>
 <div class="row">
 <div class="col badge">
-    <img src="devicon-master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode"
+    <img src="assets/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode"
     width="55" height="55" />
 </div>
 </div>
