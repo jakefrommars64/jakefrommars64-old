@@ -31,3 +31,5 @@
 </p>
 
 <!-- `github-user-contribution.svg` generated courtesy of [snk](https://platane.me/snk/) -->
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>
