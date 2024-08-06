@@ -36,31 +36,15 @@
 
 <!-- `github-user-contribution.svg` generated courtesy of [snk](https://platane.me/snk/) -->
 
-<div class="container" style="width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto">
-<div class="row" style="display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    margin-right: -15px;
-    margin-left: -15px">
+<div class="container" style="width: 100%;padding-right: 15px;padding-left: 15px;margin-right: auto;margin-left: auto">
+<div class="row" style="display: -webkit-box;display: -ms-flexbox;display: flex;-ms-flex-wrap: wrap;flex-wrap: wrap;margin-right: -15px;margin-left: -15px">
 <div class="col badge">
 
 # <br>All Languages
 
 </div>
 </div>
-<div class="row" style="display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    margin-right: -15px;
-    margin-left: -15px">
+<div class="row" style="display: -webkit-box;display: -ms-flexbox;display: flex;-ms-flex-wrap: wrap;flex-wrap: wrap;margin-right: -15px;margin-left: -15px">
 <div class="col badge" align="left">
     <img src="assets/icons/python/python-original-wordmark.svg" title="Python" alt="Python"
     width="55" height="55" />
@@ -94,26 +78,14 @@
     width="55" height="55" />
 </div>
 </div>
-<div class="row" style="display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    margin-right: -15px;
-    margin-left: -15px">
+<div class="row" style="display: -webkit-box;display: -ms-flexbox;display: flex;-ms-flex-wrap: wrap;flex-wrap: wrap;margin-right: -15px;margin-left: -15px">
 <div class="col badge">
 
 # <br>Common Applications
 
 </div>
 </div>
-<div class="row" style="display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    margin-right: -15px;
-    margin-left: -15px">
+<div class="row" style="display: -webkit-box;display: -ms-flexbox;display: flex;-ms-flex-wrap: wrap;flex-wrap: wrap;margin-right: -15px;margin-left: -15px">
 <div class="col badge">
     <img src="assets/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode"
     width="55" height="55" />
