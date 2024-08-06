@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="./css/style2.css" />
+<!-- <link rel="stylesheet" href="./css/style2.css" /> -->
 
 <!-- my stats -->
 <p>
@@ -36,24 +36,40 @@
 
 <!-- `github-user-contribution.svg` generated courtesy of [snk](https://platane.me/snk/) -->
 
-<div class="container">
-<div class="row">
+<div class="container" style="width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto">
+<div class="row" style="display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px">
 <div class="col badge">
 
 # <br>All Languages
 
 </div>
 </div>
-<div class="row">
-<div class="col badge">
+<div class="row" style="display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px">
+<div class="col badge" align="left">
     <img src="assets/icons/python/python-original-wordmark.svg" title="Python" alt="Python"
     width="55" height="55" />
 </div>
-<div class="col badge">
+<div class="col badge" align="left">
     <img src="assets/icons/denojs/denojs-original-wordmark-white.svg" title="DenoJS" alt="DenoJS"
     width="55" height="55" />
 </div>
-<div class="col badge">
+<div class="col badge" align="left">
     <img src="assets/icons/dot-net/dot-net-original-wordmark-white.svg" title="Dot Net" alt="Dot Net"
     width="55" height="55" />
 </div>
@@ -78,14 +94,26 @@
     width="55" height="55" />
 </div>
 </div>
-<div class="row">
+<div class="row" style="display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px">
 <div class="col badge">
 
 # <br>Common Applications
 
 </div>
 </div>
-<div class="row">
+<div class="row" style="display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px">
 <div class="col badge">
     <img src="assets/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode"
     width="55" height="55" />
