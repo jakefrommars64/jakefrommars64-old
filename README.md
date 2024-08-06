@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="css/style2.css" />
+<link rel="stylesheet" href="./css/style2.css" />
 
 <!-- my stats -->
 <p>
