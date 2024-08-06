@@ -1,35 +1,94 @@
-<!-- @format -->
+<link rel="stylesheet" href="css/style2.css" />
 
 <!-- my stats -->
 <p>
-  <a href="#">
-    <img height=200 align="left" src="https://my-stats-43gk.vercel.app/api?username=jakefrommars64&show_icons=true&theme=cobalt&show=discussions_answered&include_all_commits=true" />
-  </a>
-  <a href="#">
-    <img height=200 align="left" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=jakefrommars64&langs_count=8&layout=donut&theme=cobalt&size_weight=0.5&count_weight=0.5" />
-  </a>
+    <a href="#">
+        <img height=200 align="left"
+            src="https://my-stats-43gk.vercel.app/api?username=jakefrommars64&show_icons=true&theme=cobalt&show=discussions_answered&include_all_commits=true" />
+    </a>
+    <a href="#">
+        <img height=200 align="left"
+            src="https://my-stats-43gk.vercel.app/api/top-langs/?username=jakefrommars64&langs_count=8&layout=donut&theme=cobalt&size_weight=0.5&count_weight=0.5" />
+    </a>
 </p>
 <!-- top langs -->
 <p>
-  
+
 </p>
 <!-- streak stats -->
 <p align="center">
-  <img height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=blocage&theme=cobalt"/>
+    <img height=202
+        src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=blocage&theme=cobalt" />
 </p>
 <!-- trophies -->
 <p align="center">
-  <img height=97 src="https://github-profile-trophy.vercel.app/?username=jakefrommars64&theme=cobalt&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
+    <img height=97
+        src="https://github-profile-trophy.vercel.app/?username=jakefrommars64&theme=cobalt&no-frame=true&title=Stars,Followers,Commits&col badgeumn=-1" />
 </p>
 <!-- snake -->
 <a href=#><img src="github-user-contribution.svg"></a>
 
 <!-- visitor count -->
 <p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/_jakefrommars64/count.svg" />
+    Visitor count<br>
+    <img src="https://profile-counter.glitch.me/_jakefrommars64/count.svg" />
 </p>
 
 <!-- `github-user-contribution.svg` generated courtesy of [snk](https://platane.me/snk/) -->
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>
+<div class="container">
+<div class="row">
+<div class="col badge">
+
+# <br>All Languages
+
+</div>
+</div>
+<div class="row">
+<div class="col badge">
+    <img src="devicon-master/icons/python/python-original-wordmark.svg" title="Python" alt="Python"
+    width="55" height="55" />
+</div>
+<div class="col badge">
+    <img src="devicon-master/icons/denojs/denojs-original-wordmark-white.svg" title="DenoJS" alt="DenoJS"
+    width="55" height="55" />
+</div>
+<div class="col badge">
+    <img src="devicon-master/icons/dot-net/dot-net-original-wordmark-white.svg" title="Dot Net" alt="Dot Net"
+    width="55" height="55" />
+</div>
+<div class="col badge">
+    <img src="devicon-master/icons/html5/html5-original-wordmark-white.svg" title="HTML 5" alt="HTML 5"
+    width="55" height="55" />
+</div>
+<div class="col badge">
+    <img src="devicon-master/icons/java/java-original-wordmark.svg" title="Java" alt="Java"
+    width="55" height="55" />
+</div>
+<div class="col badge">
+    <img src="devicon-master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript"
+    width="55" height="55" />
+</div>
+<div class="col badge">
+    <img src="devicon-master/icons/json/json-original.svg" title="JSON" alt="JSON"
+    width="55" height="55" />
+</div>
+<div class="col badge">
+    <img src="devicon-master/icons/markdown/markdown-original-white.svg" title="Markdown" alt="Markdown"
+    width="55" height="55" />
+</div>
+</div>
+<div class="row">
+<div class="col badge">
+
+# <br>Common Applications
+
+</div>
+</div>
+<div class="row">
+<div class="col badge">
+    <img src="devicon-master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode"
+    width="55" height="55" />
+</div>
+</div>
+</div>
