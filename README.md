@@ -8,7 +8,7 @@
     </a>
     <a href="#">
         <img height=200 align="left"
-            src="https://my-stats-43gk.vercel.app/api/top-langs/?username=jakefrommars64&langs_count=8&layout=donut&theme=cobalt&size_weight=0.5&count_weight=0.5" />
+            src="https://my-stats-43gk.vercel.app/api/top-langs/?username=jakefrommars64&langs_count=8&layout=donut&theme=cobalt&size_weight=0.5&count_weight=0.5&exclude_repo=jakefrommars64,jakefrommars64.github.io" />
     </a>
 </p>
 <!-- top langs -->
