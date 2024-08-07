@@ -22,8 +22,7 @@
 </p>
 <!-- trophies -->
 <p align="center">
-    <img height=97
-        src="https://github-profile-trophy.vercel.app/?username=jakefrommars64&theme=cobalt&no-frame=true&title=Stars,Followers,Commits&col badgeumn=-1" />
+  <img height=97 src="https://github-profile-trophy.vercel.app/?username=jakefrommars64&theme=cobalt&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 </p>
 <!-- snake -->
 <a href=#><img src="github-user-contribution.svg"></a>
