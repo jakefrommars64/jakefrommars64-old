@@ -22,7 +22,7 @@
 <!-- snake -->
 <!-- [snk](https://platane.me/snk/)  -->
 <div align="center">
-    <img src="https://github.com/jakefrommars64/jakefrommars64/blob/output/github-contribution-grid-snake-light.svg" />
+    <img src="https://github.com/jakefrommars64/jakefrommars64/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <!-- visitor count -->
