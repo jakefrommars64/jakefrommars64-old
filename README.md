@@ -25,7 +25,7 @@
   <img height=97 src="https://github-profile-trophy.vercel.app/?username=jakefrommars64&theme=cobalt&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 </p>
 <!-- snake -->
-<a href=#><img src="github-user-contribution.svg"></a>
+<a href=#><img src="https://github.com/jakefrommars64/jakefrommars64/blob/output/github-contribution-grid-snake-dark.svg"></a>
 
 <!-- visitor count -->
 <p align="center">
