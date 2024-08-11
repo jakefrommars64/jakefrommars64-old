@@ -1,45 +1,51 @@
-<!-- <link rel="stylesheet" href="./css/style2.css" /> -->
+<div align="center">
+    <!-- my stats -->
+    <!-- [GitHub REAME Stats](https://github.com/anuraghazra/github-readme-stats) -->
+    <img src="https://my-stats-43gk.vercel.app/api?username=jakefrommars64&theme=midnight-purple&card_width=250&card_height=200&show_icons=true&show=discussions_answered&include_all_commits=true" />
+    <!-- top langs -->
+    <!-- [GitHub REAME Stats](https://github.com/anuraghazra/github-readme-stats) -->
+    <img src="https://my-stats-43gk.vercel.app/api/top-langs/?username=jakefrommars64&theme=midnight-purple&card_width=250&card_height=200&langs_count=8&layout=donut&size_weight=0.5&count_weight=0.5&exclude_repo=jakefrommars64,jakefrommars64.github.io,Foam-PKMS-CMS,resume-generator" />
+</div>
 
-<!-- my stats -->
-<p>
-    <a href="#">
-        <img height=200 align="left"
-            src="https://my-stats-43gk.vercel.app/api?username=jakefrommars64&show_icons=true&theme=cobalt&show=discussions_answered&include_all_commits=true" />
-    </a>
-    <a href="#">
-        <img height=200 align="left"
-            src="https://my-stats-43gk.vercel.app/api/top-langs/?username=jakefrommars64&langs_count=8&layout=donut&theme=cobalt&size_weight=0.5&count_weight=0.5&exclude_repo=jakefrommars64,jakefrommars64.github.io,Foam-PKMS-CMS" />
-    </a>
-</p>
-<!-- top langs -->
-<p>
+<div align="center">
+    <!-- streak stats -->
+    <!-- [GitHub Readme Streak Stats Demo](https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/demo/) -->
+    <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app?user=jakefrommars64&theme=midnight-purple&card_width=500&card_height=200&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+</div>
 
-</p>
-<!-- streak stats -->
-<p align="center">
-    <img height=202
-        src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=blocage&theme=cobalt" />
-</p>
 <!-- trophies -->
-<p align="center">
-  <img height=97 src="https://github-profile-trophy.vercel.app/?username=jakefrommars64&theme=cobalt&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
-</p>
+<!-- [GitHub Profile Trophies](https://github-profile-trophy.vercel.app/) -->
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=jakefrommars64" />
+</div>
+
 <!-- snake -->
-<a href=#><img src="https://github.com/jakefrommars64/jakefrommars64/blob/output/github-contribution-grid-snake-dark.svg"></a>
+<!-- [snk](https://platane.me/snk/)  -->
+<div align="center">
+    <img src="https://github.com/jakefrommars64/jakefrommars64/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 <!-- visitor count -->
-<p align="center">
-    Visitor count<br>
+<div align="center">
+    <h3>VISITORS</h3>>
     <img src="https://profile-counter.glitch.me/_jakefrommars64/count.svg" />
-</p>
+</div>
 
-<!-- `github-user-contribution.svg` generated courtesy of [snk](https://platane.me/snk/) -->
+<!-- Languages -->
+<div align="center">
+    <h3>LANGUAGES</h3>
+    <img src="assets/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="55" height="55" />
+    <img src="assets/icons/denojs/denojs-original-wordmark-white.svg" title="DenoJS" alt="DenoJS" width="55" height="55" />
+    <img src="assets/icons/dot-net/dot-net-original-wordmark-white.svg" title="Dot Net" alt="Dot Net" width="55" height="55" />
+    <img src="assets/icons/html5/html5-original-wordmark-white.svg" title="HTML 5" alt="HTML 5" width="55" height="55" />
+    <img src="assets/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="55" height="55" />
+    <img src="assets/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="55" height="55" />
+    <img src="assets/icons/json/json-original.svg" title="JSON" alt="JSON" width="55" height="55" />
+    <img src="assets/icons/markdown/markdown-original-white.svg" title="Markdown" alt="Markdown" width="55" height="55" />
+</div>
 
-# <br>All Languages
-
-<img src="assets/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="55" height="55" /><img src="assets/icons/denojs/denojs-original-wordmark-white.svg" title="DenoJS" alt="DenoJS" width="55" height="55" /><img src="assets/icons/dot-net/dot-net-original-wordmark-white.svg" title="Dot Net" alt="Dot Net" width="55" height="55" /><img src="assets/icons/html5/html5-original-wordmark-white.svg" title="HTML 5" alt="HTML 5" width="55" height="55" /><img src="assets/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="55" height="55" /><img src="assets/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="55" height="55" /><img src="assets/icons/json/json-original.svg" title="JSON" alt="JSON" width="55" height="55" /><img src="assets/icons/markdown/markdown-original-white.svg" title="Markdown" alt="Markdown" width="55" height="55" />
-
-# Common Applications
-
-<img src="assets/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode"
-    width="55" height="55" />
+<!-- Common Apps -->
+<div align="center">
+    <h1>COMMON APPLICATIONS</h1>
+    <img src="assets/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="55" height="55" />
+</div>
