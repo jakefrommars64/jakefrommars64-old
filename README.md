@@ -1,4 +1,8 @@
-<div align="center">
+<div align="center" style="margin: 0.5rem;padding: 0.5rem;background: linear-gradient(145deg, rgb(139, 0, 139, 0.15) 15%, rgb(139, 0, 139) 80%);border-radius: 2rem;border: solid rgb(200, 200, 200, 0.5) 0.25rem;" href="https://jakefrommars64.com/">
+    <h1>My Website</h1>
+</div>
+
+<div align="center" style="position: absolute;">
     <!-- my stats -->
     <!-- [GitHub REAME Stats](https://github.com/anuraghazra/github-readme-stats) -->
     <img src="https://my-stats-43gk.vercel.app/api?username=jakefrommars64&theme=midnight-purple&card_width=250&card_height=200&show_icons=true&show=discussions_answered&include_all_commits=true" />
