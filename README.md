@@ -1,4 +1,16 @@
-![alt](index.html)
+<div align="center">
+<a href="https://jakefrommars64.com/">
+<svg viewbox="0 0 125 50">
+<style>
+.button:hover {
+    fill: rgb(97, 0, 97);
+}
+</style>
+<rect class="button" x="10" y="10" width="100" height="20" fill="rgb(139, 0, 139)" rx="10" stroke="rgb(200, 200, 200)" stroke-width="2"/>
+<text class="button-label" x="24" y="24" fill="#fff">My Website</text>
+</svg>
+</a>
+</div>
 
 <div align="center" style="position: absolute;">
     <!-- my stats -->
