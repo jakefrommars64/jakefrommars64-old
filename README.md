@@ -1,6 +1,4 @@
-<div align="center">
-    <a style="margin: 0.5rem;padding: 0.5rem;background: linear-gradient(145deg, rgb(139, 0, 139, 0.15) 15%, rgb(139, 0, 139) 80%);border-radius: 2rem;border: solid rgb(200, 200, 200, 0.5) 0.25rem;" href="https://jakefrommars64.com/">My Website</a>
-</div>
+![alt](index.html)
 
 <div align="center" style="position: absolute;">
     <!-- my stats -->
